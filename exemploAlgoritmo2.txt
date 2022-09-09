@@ -1,0 +1,32 @@
+Exer2Alg
+
+Ler um valor interio e indicar se é par ou impar
+
+START
+	valor: inteiro;
+
+	Escrever "Digite um valor inteiro"
+	Ler valor
+	
+	Se (valor MOD 2 = 0) então
+		Escrever valor, "é par"
+	Senão
+		Escever valor, "é impar"
+	FimSE
+END
+
+
+Exer3Alg
+Ler um valor numerico e apresentar o seu quadrado caso ele seja positivo
+senão apresentar a metade desse valor.
+
+START
+	valor: inteiro ou real
+	Escrever "Digite um valor numério"
+
+	Se (valor >= 0) entao
+		Escrever
+END
+
+Exer4Alg
+Escreva um programa que peça dois números ao utilizador e indique qual é o maior.

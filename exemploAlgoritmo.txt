@@ -1,0 +1,38 @@
+ExerAlg
+
+Ler dois valores numéricos e apresentar o resultado das 4 operações aritméticas básicas ( + - * /)
+
+Análise
+Variáveis de entrada:
+valorA, valorB: Real
+	var A = 2
+	var B = 4
+
+Variáveis de saída:
+	soma, subtração, quociente, produto: Real
+
+START
+	// Declarar as variáveis
+	valorA, valorB: real
+	soma, subtração, quociente, produto: real
+	
+	// Pedido e leitura dos dados para as variáveis
+	Escrever "Digite o primeiro valor"
+	Ler valorA
+	Escrever "Digite o segundo valor"
+	Ler valorB
+
+	// Realizar cálculos das operações
+	soma <- valorA + valorB
+	subtração <- valorA - valorB
+	quociente <- valorA / valorB
+	produto <- valorA * valorB
+
+	Escrever " Soma = ", soma
+	Escrever " Subtração = ", subtração
+	Escrever " Quociente = ", quociente
+	Escrever " Produto = ", produto
+END
+
+
+
