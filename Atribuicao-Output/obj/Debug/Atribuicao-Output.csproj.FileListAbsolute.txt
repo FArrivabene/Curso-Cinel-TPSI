@@ -1,0 +1,8 @@
+E:\arriv\App01\Atribuicao-Output\obj\Debug\Atribuicao-Output.csproj.AssemblyReference.cache
+E:\arriv\App01\Atribuicao-Output\obj\Debug\Atribuicao-Output.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\Atribuicao-Output\obj\Debug\Atribuicao-Output.csproj.CoreCompileInputs.cache
+E:\arriv\App01\Atribuicao-Output\bin\Debug\Atribuicao-Output.exe.config
+E:\arriv\App01\Atribuicao-Output\bin\Debug\Atribuicao-Output.exe
+E:\arriv\App01\Atribuicao-Output\bin\Debug\Atribuicao-Output.pdb
+E:\arriv\App01\Atribuicao-Output\obj\Debug\Atribuicao-Output.exe
+E:\arriv\App01\Atribuicao-Output\obj\Debug\Atribuicao-Output.pdb

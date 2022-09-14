@@ -1,0 +1,8 @@
+E:\arriv\App01\Exerc-03-Grupo1\bin\Debug\Exerc-03-Grupo1.exe.config
+E:\arriv\App01\Exerc-03-Grupo1\bin\Debug\Exerc-03-Grupo1.exe
+E:\arriv\App01\Exerc-03-Grupo1\bin\Debug\Exerc-03-Grupo1.pdb
+E:\arriv\App01\Exerc-03-Grupo1\obj\Debug\Exerc-03-Grupo1.csproj.AssemblyReference.cache
+E:\arriv\App01\Exerc-03-Grupo1\obj\Debug\Exerc-03-Grupo1.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\Exerc-03-Grupo1\obj\Debug\Exerc-03-Grupo1.csproj.CoreCompileInputs.cache
+E:\arriv\App01\Exerc-03-Grupo1\obj\Debug\Exerc-03-Grupo1.exe
+E:\arriv\App01\Exerc-03-Grupo1\obj\Debug\Exerc-03-Grupo1.pdb

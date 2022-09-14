@@ -1,0 +1,8 @@
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\obj\Debug\Realizar Exercício 1 - Algoritmia.csproj.AssemblyReference.cache
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\obj\Debug\Realizar Exercício 1 - Algoritmia.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\obj\Debug\Realizar Exercício 1 - Algoritmia.csproj.CoreCompileInputs.cache
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\bin\Debug\Realizar Exercício 1 - Algoritmia.exe.config
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\bin\Debug\Realizar Exercício 1 - Algoritmia.exe
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\bin\Debug\Realizar Exercício 1 - Algoritmia.pdb
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\obj\Debug\Realizar Exercício 1 - Algoritmia.exe
+E:\arriv\App01\Realizar Exercício 1 - Algoritmia\obj\Debug\Realizar Exercício 1 - Algoritmia.pdb

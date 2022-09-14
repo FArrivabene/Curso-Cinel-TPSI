@@ -1,0 +1,8 @@
+E:\arriv\App01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\arriv\App01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\arriv\App01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\arriv\App01\ConsoleApp1\obj\Debug\Exerc-12-Grupo01.csproj.AssemblyReference.cache
+E:\arriv\App01\ConsoleApp1\obj\Debug\Exerc-12-Grupo01.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\ConsoleApp1\obj\Debug\Exerc-12-Grupo01.csproj.CoreCompileInputs.cache
+E:\arriv\App01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\arriv\App01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

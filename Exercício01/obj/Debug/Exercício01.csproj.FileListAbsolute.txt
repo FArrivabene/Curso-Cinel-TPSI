@@ -1,0 +1,8 @@
+E:\arriv\App01\Exercício01\bin\Debug\Exercício01.exe.config
+E:\arriv\App01\Exercício01\bin\Debug\Exercício01.exe
+E:\arriv\App01\Exercício01\bin\Debug\Exercício01.pdb
+E:\arriv\App01\Exercício01\obj\Debug\Exercício01.csproj.AssemblyReference.cache
+E:\arriv\App01\Exercício01\obj\Debug\Exercício01.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\Exercício01\obj\Debug\Exercício01.csproj.CoreCompileInputs.cache
+E:\arriv\App01\Exercício01\obj\Debug\Exercício01.exe
+E:\arriv\App01\Exercício01\obj\Debug\Exercício01.pdb

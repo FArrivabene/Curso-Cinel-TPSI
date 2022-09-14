@@ -1,0 +1,8 @@
+E:\arriv\App01\Aula-de-C-Sharp01\bin\Debug\Aula-de-C-Sharp01.exe.config
+E:\arriv\App01\Aula-de-C-Sharp01\bin\Debug\Aula-de-C-Sharp01.exe
+E:\arriv\App01\Aula-de-C-Sharp01\bin\Debug\Aula-de-C-Sharp01.pdb
+E:\arriv\App01\Aula-de-C-Sharp01\obj\Debug\Aula-de-C-Sharp01.csproj.AssemblyReference.cache
+E:\arriv\App01\Aula-de-C-Sharp01\obj\Debug\Aula-de-C-Sharp01.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\Aula-de-C-Sharp01\obj\Debug\Aula-de-C-Sharp01.csproj.CoreCompileInputs.cache
+E:\arriv\App01\Aula-de-C-Sharp01\obj\Debug\Aula-de-C-Sharp01.exe
+E:\arriv\App01\Aula-de-C-Sharp01\obj\Debug\Aula-de-C-Sharp01.pdb

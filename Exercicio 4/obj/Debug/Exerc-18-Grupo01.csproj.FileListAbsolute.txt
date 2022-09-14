@@ -1,0 +1,8 @@
+E:\arriv\App01\Exercicio 4\bin\Debug\Exercicio 4.exe.config
+E:\arriv\App01\Exercicio 4\bin\Debug\Exercicio 4.exe
+E:\arriv\App01\Exercicio 4\bin\Debug\Exercicio 4.pdb
+E:\arriv\App01\Exercicio 4\obj\Debug\Exerc-18-Grupo01.csproj.AssemblyReference.cache
+E:\arriv\App01\Exercicio 4\obj\Debug\Exerc-18-Grupo01.csproj.SuggestedBindingRedirects.cache
+E:\arriv\App01\Exercicio 4\obj\Debug\Exerc-18-Grupo01.csproj.CoreCompileInputs.cache
+E:\arriv\App01\Exercicio 4\obj\Debug\Exercicio 4.exe
+E:\arriv\App01\Exercicio 4\obj\Debug\Exercicio 4.pdb
